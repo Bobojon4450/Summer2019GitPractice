@@ -12,4 +12,5 @@ grey
 salamander
 Orange
 Mica
+Azure
 French Rose
