@@ -10,4 +10,3 @@ solar
 white
 grey
 salamander
-java is fun
