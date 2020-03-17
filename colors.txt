@@ -1,7 +1,4 @@
 blue
 red
-<<<<<<< HEAD
 green
-=======
 black
->>>>>>> 4e666f72ec808bba9242ae70078d679b93341043
