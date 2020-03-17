@@ -14,4 +14,3 @@ Orange
 Mica
 Azure
 French Rose
-Color
