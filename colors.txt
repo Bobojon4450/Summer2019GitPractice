@@ -6,8 +6,5 @@ yellow
 purple
 pink
 navy blue
-<<<<<<< HEAD
 solar
-=======
 white
->>>>>>> d46b08f1e06fb2e6c571173d30d7d10624e1da35
