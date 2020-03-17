@@ -4,4 +4,8 @@ green
 black
 yellow
 purple
+<<<<<<< HEAD
 pink
+=======
+navy blue
+>>>>>>> ced832097936aa4c72ce4b4bf451f92578ea3a9c
