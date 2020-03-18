@@ -4,3 +4,4 @@ hamster
 chicken
 pig
 sheep
+rooster
