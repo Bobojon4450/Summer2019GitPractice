@@ -3,3 +3,5 @@ UZB
 KZ
 RUS
 BLR
+KG
+TUR
