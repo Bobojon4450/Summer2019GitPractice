@@ -2,3 +2,4 @@ TJK
 UZB
 KZ
 RUS
+BLR
