@@ -1,2 +1,4 @@
 doggy
 kitty
+hamster
+chicken
